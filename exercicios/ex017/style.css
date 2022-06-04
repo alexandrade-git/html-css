@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body{
+    font-family:'Courier New', Courier, monospace;
+    font-size:16px;
+
+    /* Medidas Absolutas */
+    /* cm, mm, in, px. pt. pc
+    ic:polegada
+    pc:paica 
+    
+    Medidas relativas
+    em, ex
+
+    em:Segue o tamanho do M 
+    ex:Segue o tamanho do x
+    rem: relativa a fonte que está configurada no body
+    vw; porcentagem da view port
+    vh:altura da view port
+    
+    
+    */
+}

@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body{
+    background-image:linear-gradient(to right,#005C53, #042940) ;
+}
+
+main{
+    background-color: #D6D58E;
+    width: 500px;
+    padding: 10px;
+    margin: auto;
+    border-radius: 15px;
+    
+}
+
+.minhafoto img{
+    display: block;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto
+    
+}
+
+h2{
+    text-align: center;
+}
