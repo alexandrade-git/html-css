@@ -1,5 +1,5 @@
 # html-css
- HTML 5 E CSS 3 
+CURSO HTML5 E CSS3 DO CURSO EM VIDEO.
 
 Estou aprendendo a criar sites e agora vou gerenciar repositórios!
 
